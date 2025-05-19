@@ -61,7 +61,7 @@
 - Reduced system downtime by 35% with improved automation  
 - Improved ERP response handling for 15K+ student records
 
-### 🏥 Botspot Infoware Pvt. Ltd. – *Software Engineer*  
+### 🏥 kmphitech LLP – *Software Engineer*  
 📍 *Aug 2020 – Jul 2023*  
 - Developed a hospital management system with secure modules  
 - Reduced regulatory errors by 10% and led code reviews and team collaboration
