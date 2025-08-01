@@ -1,89 +1,97 @@
-<!-- Header Banner (optional - change to a hosted image or GitHub banner) -->
+<h1 align="center">👋 Hi, I'm Naincy Chovatiya</h1>
+<h3 align="center">Software Engineer | Full Stack Developer | Cloud-Native Builder</h3>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,100:5271ff&height=180&section=header&text=Naincy%20Chovatiya&fontSize=38&fontAlignY=35&desc=Software%20Engineer%20|%20Full%20Stack%20Developer%20|%20Cloud%20Enthusiast&descAlignY=51&animation=fadeIn" />
+  <a href="mailto:naincychovatiya09@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/naincy-chovatiya/">💼 LinkedIn</a> •
+  <a href="https://github.com/NaincyChovatiya">🛠️ GitHub</a>
 </p>
 
-# 👩‍💻 Hi, I'm Naincy Chovatiya
+---
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+### 🚀 About Me
 
-💼 **Software Engineer | Full Stack Developer | Cloud Enthusiast**
+I'm a **Software Engineer** with over **3.5 years of experience** building secure, high-performance, and scalable applications across the **fintech, healthcare, and ERP** domains.
 
-🔹 With over 4 years of professional experience, I specialize in building scalable, secure, and high-performance web and enterprise applications.  
-🔹 Proficient in developing **RESTful APIs** with **Java, Spring Boot**, and implementing **OAuth2/JWT** authentication.  
-🔹 Skilled in **React**, **Node.js**, and developing **cloud-native applications** using **AWS Lambda** and **Docker**.  
-🔹 Experienced with both **relational** (MySQL, PostgreSQL, Oracle) and **NoSQL** (MongoDB) databases.
+🔹 I specialize in **Java**, **Spring Boot**, **React.js**, **Node.js**, and **AWS** for crafting full-stack, microservices-based systems.  
+🔹 Experienced in building cloud-native and event-driven architectures with **Kafka**, **Redis**, **OAuth2**, and **WebFlux**.  
+🔹 Passionate about clean code, cross-functional collaboration, and delivering meaningful solutions through **TDD**, **CI/CD**, and **Agile**.
 
 ---
 
-## 🔧 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+### 🛠️ Tech Stack
 
 **Languages:**  
-`Java`, `JavaScript`, `Python`, `SQL`, `TypeScript`
+`Java` `TypeScript` `JavaScript` `Python` `SQL`
 
-**Frameworks & Libraries:**  
-`Spring Boot`, `React.js`, `Node.js`, `Express.js`
+**Frameworks & Tools:**  
+`Spring Boot` `WebFlux` `Hibernate` `React.js` `Node.js` `Express.js` `Docker` `Kubernetes` `OAuth2` `JWT`
 
-**DevOps & Tools:**  
-`Git`, `Docker`, `Kubernetes`, `AWS Lambda`, `Apache Kafka`, `Jira`
+**Cloud & DevOps:**  
+`AWS (Lambda, EC2, S3, RDS)` `GitHub Actions` `Jenkins` `Argo CD`
 
 **Databases:**  
-`MySQL`, `PostgreSQL`, `Oracle`, `MongoDB`
+`MySQL` `PostgreSQL` `MongoDB` `Redis`
 
-**Practices & Concepts:**  
-`OAuth2`, `JWT`, `REST APIs`, `Agile`, `SDLC`, `TDD`
-
----
-
-## 🏢 Professional Experience
-
-### 💼 Tata Consultancy Services (TCS) – *System Engineer*  
-📍 *Nov 2024 – Present*  
-- Developed Java-based backend for Georgia’s HCM system supporting 50+ agencies  
-- Collaborated in Agile teams to reduce deployment errors by 98%  
-- Maintained front-end features and database integration using MySQL and Oracle
-
-### 🏫 University of Texas at Arlington – *Software Developer (Research)*  
-📍 *Oct 2023 – Oct 2024*  
-- Built APIs and cloud automation tools using AWS Lambda and Spring Boot  
-- Reduced system downtime by 35% with improved automation  
-- Improved ERP response handling for 15K+ student records
-
-### 🏥 Kmphitech LLP – *Software Engineer*  
-📍 *Aug 2020 – Jul 2023*  
-- Developed a hospital management system with secure modules  
-- Reduced regulatory errors by 10% and led code reviews and team collaboration
+**Architecture & Methodologies:**  
+`Microservices` `REST APIs` `TDD` `DDD` `Zero-Trust Security` `Agile (Scrum)` `CI/CD`
 
 ---
 
-## 📚 Education
+### 💼 Experience Snapshot
 
-🎓 **M.S. in Computer Science**  
-*University of Texas at Arlington* — *May 2025*
+**🔸 Cardinal Health – Software Engineer (USA)**  
+*Aug 2024 – Present*  
+- Developed Spring Boot microservices for prescription workflows, reducing processing time by **40%**.  
+- Containerized apps using **Docker + Kubernetes**, improving deployment efficiency by **50%**.  
+- Automated compliance reports via **AWS Lambda**, increasing accuracy by **30%**.  
 
-🎓 **B.E. in Information Technology**  
-*Gujarat Technological University* — *June 2023*
+**🔸 Paytm – Software Engineer (India)**  
+*Apr 2022 – Jun 2023*  
+- Improved transaction throughput by **38%** through Spring Boot + WebFlux services.  
+- Built React.js dashboards that cut fraud analysis time by **22%**.  
+- Secured APIs with **OAuth2/JWT**; contributed to **PCI-DSS & RBI** compliance.
+
+**🔸 Deloitte – Full Stack Developer (India)**  
+*Oct 2020 – Mar 2022*  
+- Developed ERP solutions with Java, Spring Boot, and React for 10K+ enterprise users.  
+- Increased accounting system performance by **20%** through async and DB optimization.  
+- Led Dockerized CI/CD pipelines that cut deployment issues by **40%**.
 
 ---
 
-## 🌐 Let's Connect
+### 🌟 Featured Projects
 
-📫 Email: [naincychovatiya09@gmail.com](mailto:naincychovatiya09@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/naincy-chovatiya/)  
-📍 Based in *San Diego, CA* (Open to relocation)
+**📌 MediSync** – Healthcare Appointment & EHR Management  
+Tech: *Java, Spring Boot, React.js, MongoDB, Docker*  
+- Built a full-stack platform for EHR management with secure APIs and JWT-based auth.  
+- Achieved **45% faster load times** using optimized React state handling.
+
+**📌 SkillForge** – AI-Powered Job & Skill Recommender  
+Tech: *Node.js, PostgreSQL, Redis, React.js, OAuth2*  
+- Personalized recommendations via skill gap analysis and collaborative filtering.  
+- Cut API latency by **50%** using **Redis caching** and efficient indexing.
 
 ---
 
-💡 *“Striving to build impactful software solutions while continually learning and growing in the field of technology.”*
+### 🎓 Education
+
+**MS in Computer Science**  
+*University of Texas at Arlington, USA (2023–2025)*  
+
+**BE in Information Technology**  
+*Gujarat Technological University, India (2019–2023)*  
+
+---
+
+### 📜 Certifications
+
+- 🏅 AWS Certified Developer – Associate  
+- 🧩 Meta Full Stack Developer Professional Certificate  
+
+---
+
+### 📫 Let’s Connect!
+
+I’m open to full-time opportunities where I can contribute to building impactful software and grow with a collaborative team. Let’s connect!
+
