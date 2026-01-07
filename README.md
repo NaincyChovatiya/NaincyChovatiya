@@ -11,52 +11,61 @@
 
 ### 🚀 About Me
 
-I'm a **Software Engineer** with over **3.5 years of experience** building secure, high-performance, and scalable applications across the **fintech, healthcare, and ERP** domains.
+I'm a **Software Engineer** with **3.5+ years of experience** designing and building scalable, secure, and high-performance applications across **financial services, AI engineering, and enterprise technology**.
 
-🔹 I specialize in **Java**, **Spring Boot**, **React.js**, **Node.js**, and **AWS** for crafting full-stack, microservices-based systems.  
-🔹 Experienced in building cloud-native and event-driven architectures with **Kafka**, **Redis**, **OAuth2**, and **WebFlux**.  
-🔹 Passionate about clean code, cross-functional collaboration, and delivering meaningful solutions through **TDD**, **CI/CD**, and **Agile**.
+🔹 Strong in **Java**, **Spring Boot**, **Spring Cloud**, **REST APIs**, and **microservices** with a focus on performance and reliability.  
+🔹 Experienced across modern full-stack development using **Angular/React**, **Node.js**, and cloud-native delivery on **AWS**.  
+🔹 Passionate about clean, maintainable systems using **TDD**, **CI/CD**, and **Agile**, and known for leading initiatives and mentoring engineers.
 
 ---
 
 ### 🛠️ Tech Stack
 
 **Languages:**  
-`Java` `TypeScript` `JavaScript` `Python` `SQL`
+`Java` `Python` `TypeScript` `JavaScript` `SQL`
 
-**Frameworks & Tools:**  
-`Spring Boot` `WebFlux` `Hibernate` `React.js` `Node.js` `Express.js` `Docker` `Kubernetes` `OAuth2` `JWT`
+**Backend & Frameworks:**  
+`Spring Boot` `Spring Cloud` `Hibernate` `JUnit` `WebFlux` `Maven` `Microservices`
 
-**Cloud & DevOps:**  
-`AWS (Lambda, EC2, S3, RDS)` `GitHub Actions` `Jenkins` `Argo CD`
+**Frontend & Web:**  
+`Angular` `React.js` `Node.js` `Express.js` `HTML5` `CSS3` `Bootstrap`
+
+**APIs, Architecture & Security:**  
+`REST APIs` `OAuth2` `JWT` `Swagger (OpenAPI)` `Spring Security` `DDD` `MVC`
 
 **Databases:**  
-`MySQL` `PostgreSQL` `MongoDB` `Redis`
+`PostgreSQL` `MySQL` `MongoDB` `Redis`
 
-**Architecture & Methodologies:**  
-`Microservices` `REST APIs` `TDD` `DDD` `Zero-Trust Security` `Agile (Scrum)` `CI/CD`
+**Cloud & DevOps:**  
+`AWS (EC2, S3, Lambda)` `Docker` `Git` `GitHub Actions` `Jenkins` `CI/CD`
+
+**Messaging & Streaming:**  
+`Kafka` `RabbitMQ`
+
+**Additional Exposure:**  
+`GenAI (LangChain, OpenAI API)`
 
 ---
 
 ### 💼 Experience Snapshot
 
-**🔸 Cardinal Health – Software Engineer (USA)**  
+**🔸 Fidelity Investments – Software Engineer (USA)**  
 *Aug 2024 – Present*  
-- Developed Spring Boot microservices for prescription workflows, reducing processing time by **40%**.  
-- Containerized apps using **Docker + Kubernetes**, improving deployment efficiency by **50%**.  
-- Automated compliance reports via **AWS Lambda**, increasing accuracy by **30%**.  
+- Engineered and optimized Java + Spring Boot microservices, reducing p95 latency by **47%** across core services.  
+- Enhanced Angular UI workflows by improving state management and component logic, boosting onboarding responsiveness by **28%**.  
+- Automated CI/CD pipelines using AWS, GitHub Actions, and Jenkins, cutting deployment time from **20 minutes to under 5 minutes**.  
+- Led code reviews and mentored junior engineers, reducing rework cycles and improving code quality.  
+- Authored architecture docs and API/service interaction guides, helping new engineers ramp up in **10 days** (down from ~3 weeks).  
+- Built a GenAI-powered internal assistant using LangChain and OpenAI APIs to speed up developer troubleshooting.
 
-**🔸 Paytm – Software Engineer (India)**  
-*Apr 2022 – Jun 2023*  
-- Improved transaction throughput by **38%** through Spring Boot + WebFlux services.  
-- Built React.js dashboards that cut fraud analysis time by **22%**.  
-- Secured APIs with **OAuth2/JWT**; contributed to **PCI-DSS & RBI** compliance.
-
-**🔸 Deloitte – Full Stack Developer (India)**  
-*Oct 2020 – Mar 2022*  
-- Developed ERP solutions with Java, Spring Boot, and React for 10K+ enterprise users.  
-- Increased accounting system performance by **20%** through async and DB optimization.  
-- Led Dockerized CI/CD pipelines that cut deployment issues by **40%**.
+**🔸 Deloitte – Software Developer (India)**  
+*May 2021 – Jun 2023*  
+- Optimized Java + Spring Boot microservices, cutting p95 latency by **43%** across enterprise workflows.  
+- Built and enhanced React.js + Node.js modules, reducing client-side load times and improving user experience.  
+- Integrated AI/ML inference pipelines with async handlers and fault-tolerant safeguards, sustaining **99.7%** execution availability.  
+- Performed load testing and profiling using JMeter and APM tools, resolving bottlenecks and improving throughput.  
+- Contributed across the Agile SDLC including design, implementation, testing, debugging, and production support.  
+- Strengthened deployments in Docker and Kubernetes ecosystems, improving CI/CD reliability and runtime security.
 
 ---
 
@@ -77,21 +86,20 @@ Tech: *Node.js, PostgreSQL, Redis, React.js, OAuth2*
 ### 🎓 Education
 
 **MS in Computer Science**  
-*University of Texas at Arlington, USA (2023–2025)*  
+*University of Texas at Arlington, USA (Aug 2023 – May 2025)*  
 
 **BE in Information Technology**  
-*Gujarat Technological University, India (2019–2023)*  
+*Gujarat Technological University, India (Jul 2019 – May 2023)*  
 
 ---
 
 ### 📜 Certifications
 
 - 🏅 AWS Certified Developer – Associate  
-- 🧩 Meta Full Stack Developer Professional Certificate  
+- 🧩 Meta Full Stack Developer Certificate  
 
 ---
 
 ### 📫 Let’s Connect!
 
 I’m open to full-time opportunities where I can contribute to building impactful software and grow with a collaborative team. Let’s connect!
-
