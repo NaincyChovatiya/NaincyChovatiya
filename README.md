@@ -1,86 +1,101 @@
-👋 Hi, I'm Naincy Chovatiya
+<h1 align="center">👋 Hi, I'm Naincy Chovatiya</h1>
+<h3 align="center">Data Scientist | Data Analyst | Analytics and Dashboard Builder</h3>
 
-Data Scientist | Data Analyst | Analytics & Machine Learning
-
-📧 naincychovatiya09@gmail.com  
-💼 linkedin.com/in/naincy-chovatiya
-
----
-
-About Me
-
-Data Scientist with 3+ years of experience in data analysis, predictive modeling, and analytics-driven decision making. Strong in Python, R, and SQL, with hands-on experience building models, dashboards, and automated data workflows.
-
-I enjoy turning raw data into insights that support business, research, and product decisions.
+<p align="center">
+  <a href="mailto:naincychovatiya09@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/naincy-chovatiya/">💼 LinkedIn</a>
+  <!-- <a href="https://github.com/NaincyChovatiya">🛠️ GitHub</a> -->
+</p>
 
 ---
 
-Tech Stack
+### 🚀 About Me
 
-Languages  
-Python | R | SQL | Java
+I'm a **Data Scientist and Data Analyst** with **3+ years of experience** across **data modeling, data warehousing, analytics, and reporting**, delivering insight-driven solutions for stakeholders.
 
-Data Science & Analytics  
-NumPy | Pandas | SciPy | scikit-learn | Matplotlib | ggplot2
-
-Visualization  
-Tableau | Power BI | Excel
-
-Databases  
-MySQL | PostgreSQL | SQL Server | MongoDB
-
-Cloud & Platforms  
-AWS | Azure | Salesforce
-
-Tools  
-Jupyter Notebook | Google Colab | PyCharm | VS Code
+🔹 Strong in **Python**, **R**, **SQL**, and statistical analysis, with automation using **NumPy, pandas, SciPy, matplotlib**, plus data extraction using **BeautifulSoup** and **Selenium**.  
+🔹 Experienced in dashboarding and storytelling with **Tableau**, **Power BI**, and **Excel** for business and executive audiences.  
+🔹 Comfortable working across **SDLC** with **Agile** and **Waterfall**, collaborating with cross-functional teams to deliver reliable datasets and repeatable workflows.
 
 ---
 
-Experience
+### 🛠️ Tech Stack
 
-ReferU.ai – Data Scientist  
-Jun 2025 – Present  
-- Improved predictive model performance by 20 percent through feature engineering and tuning  
-- Increased forecasting accuracy by 30 percent using time series analysis  
-- Built automated analytics workflows and executive dashboards  
-- Developed recommender systems and optimized SQL queries
+**Languages:**  
+`Python` `R` `SQL` `Java`
 
-University of Texas at Arlington – Research Assistant  
-Feb 2024 – May 2025  
-- Automated data cleaning and reporting pipelines  
-- Designed repeatable workflows for large research datasets  
-- Ensured data integrity and reliable outputs
+**Data Science and Analytics:**  
+`NumPy` `Pandas` `SciPy` `Matplotlib` `scikit-learn` `ggplot2` `Statistics` `EDA`
 
-BotspotInfoware Pvt. Ltd – Data Analyst  
-Apr 2021 – May 2023  
-- Reduced data errors by 25 percent through data validation  
-- Identified trends and new market opportunities  
-- Supported cross functional analytics initiatives
+**Visualization and BI:**  
+`Tableau` `Power BI` `Microsoft Excel`
 
----
+**Data Engineering and Warehousing:**  
+`Data Cleaning` `Data Wrangling` `Data Modeling` `Data Warehousing` `ETL Workflows`
 
-Projects
+**Databases:**  
+`MySQL` `PostgreSQL` `SQL Server` `MongoDB`
 
-Sales Optimization System  
-Python, Pandas  
-- Streamlined inventory and billing reporting  
-- Achieved 10 percent profit growth
+**Cloud and Platforms:**  
+`AWS` `Azure` `Salesforce`
 
-Netflix Insights Dashboard  
-SQL, Tableau  
-- Visualized content trends and regional distribution  
+**Tools and IDEs:**  
+`Visual Studio Code` `PyCharm` `Jupyter Notebook` `Google Colab`
+
+**Web Data Extraction:**  
+`BeautifulSoup` `Selenium`
 
 ---
 
-Education
+### 💼 Experience Snapshot
 
-MS in Computer Science  
-University of Texas at Arlington
+**🔸 ReferU.ai – Data Scientist (Tallahassee, FL)**  
+*Jun 2025 – Present*  
+- Improved predictive modeling performance by **20%** using feature engineering and model tuning on large datasets.  
+- Increased forecasting accuracy by **30%** using hypothesis testing and time series analysis, including an XGBoost regression model for healthcare expense forecasting.  
+- Built automated capacity planning reports and analytical visuals in Python, and delivered executive-ready **Tableau** dashboards for KPI tracking.  
+- Developed collaborative filtering recommender systems and deployed outputs to **AWS Redshift**, partnering with DBAs to improve MySQL performance via SQL tuning.
 
-BE in Information and Communication Technology  
-Gujarat Technological University
+**🔸 The University of Texas at Arlington – Research Assistant (Arlington, TX)**  
+*Feb 2024 – May 2025*  
+- Built repeatable workflows to extract, preprocess, and analyze large research datasets with validation checks for data integrity.  
+- Automated data cleaning, transformation, and recurring reporting with Python scripts to reduce manual effort and improve accuracy.  
+- Troubleshot pipeline failures and runtime issues to keep workflows stable and deliver outputs on time.  
+- Collaborated with faculty and stakeholders to define data requirements, deliver analysis-ready datasets, and document processes for smooth handoffs.
+
+**🔸 BotspotInfoware Pvt. Ltd – Data Analyst (Ahmedabad, India)**  
+*Apr 2021 – May 2023*  
+- Reduced data errors by **25%** through systematic data cleaning and review of reports and performance indicators.  
+- Identified trends and patterns that led to discovery of a new market segment, increasing customer base and revenue growth.  
+- Collaborated with teams to integrate systems and improve data management, leading to better business insights.  
+- Supported senior analysts with analysis and reporting, contributing to overall performance improvements.
 
 ---
 
-Open to roles in Data Science and Data Analytics. Let’s connect.
+### 🌟 Featured Projects
+
+**📌 Sales Optimization System**  
+Tech: *Python, Pandas*  
+- Integrated inventory and billing systems to streamline reporting and eliminate data redundancy.  
+- Tracked sales and profitability metrics to increase profits by **10%** and improve decision-making by **15%**.
+
+**📌 Netflix Insights Dashboard**  
+Tech: *SQL, Tableau*  
+- Built a Tableau dashboard using CSV data (show ID, type, titles, directors, cast) to visualize content trends and regional distribution.  
+- Designed area charts for content addition trends, maps for country-level distribution, and highlights for top genres.
+
+---
+
+### 🎓 Education
+
+**MS in Computer Science**  
+*University of Texas at Arlington (May 2025)*  
+
+**BE in Information & Communication Technology**  
+*Gujarat Technological University (Jun 2023)*  
+
+---
+
+### 📫 Let’s Connect!
+
+I’m open to opportunities in **Data Science** and **Data Analytics** where I can build insight-driven solutions, automate workflows, and help teams make better decisions with data. Let’s connect!
