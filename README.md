@@ -1,105 +1,86 @@
-<h1 align="center">👋 Hi, I'm Naincy Chovatiya</h1>
-<h3 align="center">Software Engineer | Full Stack Developer | Cloud-Native Builder</h3>
+👋 Hi, I'm Naincy Chovatiya
 
-<p align="center">
-  <a href="mailto:naincychovatiya09@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/naincy-chovatiya/">💼 LinkedIn</a>
-  <!-- <a href="https://github.com/NaincyChovatiya">🛠️ GitHub</a> -->
-</p>
+Data Scientist | Data Analyst | Analytics & Machine Learning
+
+📧 naincychovatiya09@gmail.com  
+💼 linkedin.com/in/naincy-chovatiya
 
 ---
 
-### 🚀 About Me
+About Me
 
-I'm a **Software Engineer** with **3.5+ years of experience** designing and building scalable, secure, and high-performance applications across **financial services, AI engineering, and enterprise technology**.
+Data Scientist with 3+ years of experience in data analysis, predictive modeling, and analytics-driven decision making. Strong in Python, R, and SQL, with hands-on experience building models, dashboards, and automated data workflows.
 
-🔹 Strong in **Java**, **Spring Boot**, **Spring Cloud**, **REST APIs**, and **microservices** with a focus on performance and reliability.  
-🔹 Experienced across modern full-stack development using **Angular/React**, **Node.js**, and cloud-native delivery on **AWS**.  
-🔹 Passionate about clean, maintainable systems using **TDD**, **CI/CD**, and **Agile**, and known for leading initiatives and mentoring engineers.
+I enjoy turning raw data into insights that support business, research, and product decisions.
 
 ---
 
-### 🛠️ Tech Stack
+Tech Stack
 
-**Languages:**  
-`Java` `Python` `TypeScript` `JavaScript` `SQL`
+Languages  
+Python | R | SQL | Java
 
-**Backend & Frameworks:**  
-`Spring Boot` `Spring Cloud` `Hibernate` `JUnit` `WebFlux` `Maven` `Microservices`
+Data Science & Analytics  
+NumPy | Pandas | SciPy | scikit-learn | Matplotlib | ggplot2
 
-**Frontend & Web:**  
-`Angular` `React.js` `Node.js` `Express.js` `HTML5` `CSS3` `Bootstrap`
+Visualization  
+Tableau | Power BI | Excel
 
-**APIs, Architecture & Security:**  
-`REST APIs` `OAuth2` `JWT` `Swagger (OpenAPI)` `Spring Security` `DDD` `MVC`
+Databases  
+MySQL | PostgreSQL | SQL Server | MongoDB
 
-**Databases:**  
-`PostgreSQL` `MySQL` `MongoDB` `Redis`
+Cloud & Platforms  
+AWS | Azure | Salesforce
 
-**Cloud & DevOps:**  
-`AWS (EC2, S3, Lambda)` `Docker` `Git` `GitHub Actions` `Jenkins` `CI/CD`
-
-**Messaging & Streaming:**  
-`Kafka` `RabbitMQ`
-
-**Additional Exposure:**  
-`GenAI (LangChain, OpenAI API)`
+Tools  
+Jupyter Notebook | Google Colab | PyCharm | VS Code
 
 ---
 
-### 💼 Experience Snapshot
+Experience
 
-**🔸 Fidelity Investments – Software Engineer (USA)**  
-*Aug 2024 – Present*  
-- Engineered and optimized Java + Spring Boot microservices, reducing p95 latency by **47%** across core services.  
-- Enhanced Angular UI workflows by improving state management and component logic, boosting onboarding responsiveness by **28%**.  
-- Automated CI/CD pipelines using AWS, GitHub Actions, and Jenkins, cutting deployment time from **20 minutes to under 5 minutes**.  
-- Led code reviews and mentored junior engineers, reducing rework cycles and improving code quality.  
-- Authored architecture docs and API/service interaction guides, helping new engineers ramp up in **10 days** (down from ~3 weeks).  
-- Built a GenAI-powered internal assistant using LangChain and OpenAI APIs to speed up developer troubleshooting.
+ReferU.ai – Data Scientist  
+Jun 2025 – Present  
+- Improved predictive model performance by 20 percent through feature engineering and tuning  
+- Increased forecasting accuracy by 30 percent using time series analysis  
+- Built automated analytics workflows and executive dashboards  
+- Developed recommender systems and optimized SQL queries
 
-**🔸 Deloitte – Software Developer (India)**  
-*May 2021 – Jun 2023*  
-- Optimized Java + Spring Boot microservices, cutting p95 latency by **43%** across enterprise workflows.  
-- Built and enhanced React.js + Node.js modules, reducing client-side load times and improving user experience.  
-- Integrated AI/ML inference pipelines with async handlers and fault-tolerant safeguards, sustaining **99.7%** execution availability.  
-- Performed load testing and profiling using JMeter and APM tools, resolving bottlenecks and improving throughput.  
-- Contributed across the Agile SDLC including design, implementation, testing, debugging, and production support.  
-- Strengthened deployments in Docker and Kubernetes ecosystems, improving CI/CD reliability and runtime security.
+University of Texas at Arlington – Research Assistant  
+Feb 2024 – May 2025  
+- Automated data cleaning and reporting pipelines  
+- Designed repeatable workflows for large research datasets  
+- Ensured data integrity and reliable outputs
 
----
-
-### 🌟 Featured Projects
-
-**📌 MediSync** – Healthcare Appointment & EHR Management  
-Tech: *Java, Spring Boot, React.js, MongoDB, Docker*  
-- Built a full-stack platform for EHR management with secure APIs and JWT-based auth.  
-- Achieved **45% faster load times** using optimized React state handling.
-
-**📌 SkillForge** – AI-Powered Job & Skill Recommender  
-Tech: *Node.js, PostgreSQL, Redis, React.js, OAuth2*  
-- Personalized recommendations via skill gap analysis and collaborative filtering.  
-- Cut API latency by **50%** using **Redis caching** and efficient indexing.
+BotspotInfoware Pvt. Ltd – Data Analyst  
+Apr 2021 – May 2023  
+- Reduced data errors by 25 percent through data validation  
+- Identified trends and new market opportunities  
+- Supported cross functional analytics initiatives
 
 ---
 
-### 🎓 Education
+Projects
 
-**MS in Computer Science**  
-*University of Texas at Arlington, USA (Aug 2023 – May 2025)*  
+Sales Optimization System  
+Python, Pandas  
+- Streamlined inventory and billing reporting  
+- Achieved 10 percent profit growth
 
-**BE in Information Technology**  
-*Gujarat Technological University, India (Jul 2019 – May 2023)*  
-
----
-
-### 📜 Certifications
-
-- 🏅 AWS Certified Developer – Associate  
-- 🧩 Meta Full Stack Developer Certificate  
+Netflix Insights Dashboard  
+SQL, Tableau  
+- Visualized content trends and regional distribution  
 
 ---
 
-### 📫 Let’s Connect!
+Education
 
-I’m open to full-time opportunities where I can contribute to building impactful software and grow with a collaborative team. Let’s connect!
+MS in Computer Science  
+University of Texas at Arlington
+
+BE in Information and Communication Technology  
+Gujarat Technological University
+
+---
+
+Open to roles in Data Science and Data Analytics. Let’s connect.
