@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="mailto:naincychovatiya09@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/naincy-chovatiya/">💼 LinkedIn</a>
   <!-- <a href="https://github.com/NaincyChovatiya">🛠️ GitHub</a> -->
 </p>
 
