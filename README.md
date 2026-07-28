@@ -2,7 +2,7 @@
 <h3 align="center">Data Scientist | Data Analyst | Analytics and Dashboard Builder</h3>
 
 <p align="center">
-  <a href="mailto:naincychovatiya09@gmail.com">📧 Email</a> •
+  <a href="mailto:naincychovatiya09@gmail.com">📧 Email</a>
   <!-- <a href="https://github.com/NaincyChovatiya">🛠️ GitHub</a> -->
 </p>
 
